@@ -39,14 +39,14 @@ Follow these steps to set up the PostgreSQL database for the **Flag Quiz** proje
 
 ---
 
-### 🧱 Step 2: Create the `capitals` Table
+### 🧱 Step 2: Create the `flags` Table
 1. Right-click on your new database → choose **Query Tool**.  
 2. Paste and run this SQL command:
  ```sql
-   CREATE TABLE capitals (
+   CREATE TABLE flags (
        id SERIAL PRIMARY KEY,
-       country TEXT,
-       capital TEXT
+       name TEXT,
+       flag TEXT
    );
  ```
 3. Click Execute (▶️) to create the table.
