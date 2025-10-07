@@ -90,7 +90,7 @@ const db = new pg.Client({
 1. Clone the repository:
 ```bash
 git clone https://github.com/pouriavj/flag-quiz.git
-cd capital-quiz
+cd flag-quiz
 ```
 2. Install dependencies:
 ```bash
