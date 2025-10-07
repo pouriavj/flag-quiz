@@ -18,7 +18,7 @@ The app dynamically fetches country names and flag data from a PostgreSQL databa
 ---
 ## 📸 Demo
 
-![Capital Quiz Demo](./capitalQuiz.jpg)  
+![Capital Quiz Demo](./flagQuiz.jpg)  
 
 
 ---
