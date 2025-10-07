@@ -1,9 +1,7 @@
 # Flag Quiz
 
-
-> An interactive Node.js and PostgreSQL quiz app that challenges users to identify the correct flag for each country in the world.
-> The app dynamically fetches country names and flag data from a **PostgreSQL database** and renders questions using **EJS templates**.
-
+An interactive Node.js and PostgreSQL quiz app that challenges users to identify the correct flag for each country in the world.
+The app dynamically fetches country names and flag data from a PostgreSQL database and renders questions using EJS templates.
 
 ---
 
