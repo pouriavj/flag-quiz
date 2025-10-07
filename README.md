@@ -69,10 +69,6 @@ Follow these steps to set up the PostgreSQL database for the **Flag Quiz** proje
 6. Click **OK** to import the data.
 
 
-> 📒 **Notes:**
-> - PostgreSQL will use the existing IDs from the CSV during import.  
-> - Because the `id` column is defined as `SERIAL PRIMARY KEY`, PostgreSQL will **automatically continue numbering** for any **new rows** you insert later — picking up from the **highest existing ID** in the table.
-
 ---
 ## 🔑 Database Authentication
 
