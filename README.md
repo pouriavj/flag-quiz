@@ -23,10 +23,11 @@ The app dynamically fetches country names and flag data from a PostgreSQL databa
 
 ---
 
-<div style="border-right: 4px solid #1E90FF; padding-right: 10px; margin: 10px 0;">
-  ⚠️ <strong>Browser Note:</strong> This app works best with <strong>Mozilla Firefox</strong> because some browsers, like <strong>Google Chrome</strong>, may not render certain flag characters correctly and show their UTF-8 codes instead.  
-  To view the flags properly and enjoy the quiz experience, it is recommended to use <strong>Firefox</strong>.
-</div>
+> <span style="border-left: 4px solid #1E90FF; padding-left: 10px;">⚠️ **Browser Note**  
+> This app works best with **Mozilla Firefox** because some browsers, like **Google Chrome**, may not render certain flag characters correctly and show their UTF-8 codes instead.  
+> To view the flags properly and enjoy the quiz experience, it is recommended to use **Firefox**.  
+> 🔹</span>
+
 
 
 ---
