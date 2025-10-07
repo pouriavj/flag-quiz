@@ -122,7 +122,7 @@ const port = 3000; // change this to your preferred port
 ### Additional Libraries
 - [pg](https://www.npmjs.com/package/pg) – PostgreSQL client for Node.js  
 - [body-parser](https://www.npmjs.com/package/body-parser) – to parse form submissions  
-- [JSON](https://www.json.org/json-en.html) – data format used for database queries  
+
 
 
 
