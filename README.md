@@ -8,9 +8,9 @@ The app dynamically fetches country names and flag data from a PostgreSQL databa
 
 ## ✨ Features
 
-- Users are shown a country and must guess its capital.  
-- The app gives a **score for each correct capital** guessed.  
-- Questions are selected randomly from a PostgreSQL database containing countries and capitals.  
+- Users are shown a **flag** and must guess its **country**.  
+- The app gives a **score for each correct answer**.  
+- Questions are selected randomly from a **PostgreSQL database** containing countries and their flags.  
 - The total score is tracked and displayed to the user.  
 - Simple and interactive quiz interface with input validation.
 
