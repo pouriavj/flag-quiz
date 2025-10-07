@@ -51,10 +51,10 @@ Follow these steps to set up the PostgreSQL database for the **Flag Quiz** proje
  ```
 3. Click Execute (▶️) to create the table.
 ---
-### 📥 Step 3: Import the `capitals.csv` File
+### 📥 Step 3: Import the `flags.csv` File
 
-1. In **pgAdmin**, expand your database → right-click on the **capitals** table → choose **Import/Export Data**.  
-2. Under **Filename**, browse and select the `capitals.csv` file from your project folder.  
+1. In **pgAdmin**, expand your database → right-click on the **flags** table → choose **Import/Export Data**.  
+2. Under **Filename**, browse and select the `flags.csv` file from your project folder.  
 3. Set **Format** to `CSV`.  
 4. Check ✅ **Header** (to include the first line of the CSV as column names).  
 5. Leave **Delimiter** as a comma `,`.  
@@ -89,7 +89,7 @@ const db = new pg.Client({
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pouriavj/capital-quiz.git
+git clone https://github.com/pouriavj/flag-quiz.git
 cd capital-quiz
 ```
 2. Install dependencies:
