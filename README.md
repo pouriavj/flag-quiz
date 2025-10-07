@@ -25,7 +25,7 @@ The app dynamically fetches country names and flag data from a PostgreSQL databa
 
 ## 🗄️ Database Setup (Using pgAdmin)
 
-Follow these steps to set up the PostgreSQL database for the **Capital Quiz** project using **pgAdmin**.
+Follow these steps to set up the PostgreSQL database for the **Flag Quiz** project using **pgAdmin**.
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to set up the PostgreSQL database for the **Capital Quiz** pr
 1. Open **pgAdmin** and connect to your PostgreSQL server.  
 2. When installing PostgreSQL, you will have set a **username** and **password** — these will be used to connect to the server.  
 3. Right-click on **Databases** → click **Create** → **Database**.  
-4. Enter a name, for example: `capitalquiz`.  
+4. Enter a name, for example: `flagquiz`.  
 5. Click **Save**.
 
 
