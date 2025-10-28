@@ -1,5 +1,13 @@
 # Flag Quiz
 
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-4.18-black?logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![EJS](https://img.shields.io/badge/EJS-3.1-red?logo=ejs)
+![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 An interactive Node.js and PostgreSQL quiz app that challenges users to identify the correct flag for each country in the world.
 The app dynamically fetches country names and flag data from a PostgreSQL database and renders questions using EJS templates.
 
